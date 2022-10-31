@@ -1,0 +1,7 @@
+[PATH]
+DataPath = ./data/raw/
+SavePath = ./data/preprocessed/
+
+[fitbit.creds]
+ClientID = EXMPL123
+ClientSecret = 8a3b5b4b4b4b4b4b4b4

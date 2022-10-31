@@ -1,0 +1,10 @@
+seaborn==0.11.1
+pandas==1.2.0
+numpy==1.19.5
+oauthlib==3.1.0
+fitbit==0.3.1
+scipy==1.6.0
+CherryPy==18.6.0
+lightgbm==3.1.1
+matplotlib==3.3.3
+scikit_learn==0.24.1
